@@ -20,3 +20,5 @@ telethon-tgcrypto
 mutagen
 yt-dlp
 speedtest-cli
+gunicorn = = 20.1.0
+pymongo[srv]==3.12.3
